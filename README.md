@@ -81,4 +81,5 @@ jupyter notebook fake_news_detection.ipynb
 - The dataset used in this project was sourced from [Kaggle](https://www.kaggle.com).
 - The NLTK library was used for text preprocessing.
 - Scikit-learn was used for model training and evaluation.
+
 -Link fo the data set:- https://www.kaggle.com/c/fake-news/data?select=train.csv
