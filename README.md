@@ -55,7 +55,7 @@ The model achieves a reasonable level of accuracy, demonstrating its ability to 
 1. Clone the repository:
 
 ```bash
-git clone <>
+git clone <https://github.com/Ashwadhama2004/Fake_news_prediction/tree/main>
 ```
 
 2. Navigate to the project directory:
@@ -81,10 +81,4 @@ jupyter notebook fake_news_detection.ipynb
 - The dataset used in this project was sourced from [Kaggle](https://www.kaggle.com).
 - The NLTK library was used for text preprocessing.
 - Scikit-learn was used for model training and evaluation.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-```
-
-This template covers the basic structure and instructions for your fake news detection project. You can adjust the content to match any specific details or steps you’ve used in your implementation.
+Link fo the data set:- https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbTNnc0gwQ0VGRWs0cVVXbVlib1kzQ3RXN2E5UXxBQ3Jtc0tsUVZfbFNUUWd1OEVJeDJHcXh6aEc5M0JkbnZQMGhHa2ZTd2Fuc0FxeTBKcVJTc2VvWko0ekNMVHZMR0dOSlNmSURzNnhSSTN1cU84X2ZWdzdOaDJUMVRiSjdWMk83WlZuQW9TVmRmWGUxaXdNQ1pZNA&q=https%3A%2F%2Fwww.kaggle.com%2Fc%2Ffake-news%2Fdata%3Fselect%3Dtrain.csv&v=nacLBdyG6jE
